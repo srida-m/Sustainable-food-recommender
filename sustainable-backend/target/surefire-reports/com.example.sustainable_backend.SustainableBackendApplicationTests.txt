@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.sustainable_backend.SustainableBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.513 s -- in com.example.sustainable_backend.SustainableBackendApplicationTests
